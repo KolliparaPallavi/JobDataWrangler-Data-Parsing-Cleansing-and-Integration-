@@ -1,6 +1,5 @@
 # Data Parsing, Cleansing, and Integration Pipeline
 
-## Overview
 This project demonstrates a complete **data parsing, cleansing, and integration workflow** for job advertisement datasets. The pipeline handles datasets from multiple sources, identifies and resolves schema and data-level conflicts, and produces a clean, integrated dataset suitable for analysis and downstream applications.
 
 The project involves:
